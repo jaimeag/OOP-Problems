@@ -1,0 +1,14 @@
+{
+  "name": "oop-problems",
+  "version": "1.0.0",
+  "description": "just a fun little folder of OOP problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "Jaime Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
